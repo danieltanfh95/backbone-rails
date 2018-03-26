@@ -8,3 +8,4 @@ test/dummy/.sass-cache/
 test/tmp/**/*
 .idea/
 Gemfile.lock
+node_modules
